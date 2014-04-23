@@ -1,6 +1,6 @@
-	.bowerrc
-	.editorconfig
-	.jshintrc
-	.tmp/
-	.travis.yml
-	node_modules/
+.bowerrc
+.editorconfig
+.jshintrc
+.tmp/
+.travis.yml
+node_modules/
