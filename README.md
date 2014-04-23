@@ -12,6 +12,6 @@
 `2. grunt server`
 
 ##Screenshot##
-![todo screenshot](https://github.com/dstinga/angularjs-todo-list/tree/master/app/images/screenshot.png)
+![todo screenshot](https://raw.githubusercontent.com/dstinga/angularjs-todo-list/master/app/images/screenshot.png)
 
 TodoMVC web site http://todomvc.com/architecture-examples/angularjs/#/
