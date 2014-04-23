@@ -1,6 +1,6 @@
-##Todo list app with AngularJS based on TodoMVC##
+##Todo list app with AngularJS##
+Based on TodoMVC todo list http://todomvc.com/architecture-examples/angularjs/#/
 
-This application uses browser's local storage for storing the list of todos.
 
 ####Prerequisites####
 
@@ -15,5 +15,3 @@ This application uses browser's local storage for storing the list of todos.
 
 ####Screenshot####
 ![todo screenshot](https://raw.githubusercontent.com/dstinga/angularjs-todo-list/master/app/images/screenshot.png)
-
-TodoMVC web site http://todomvc.com/architecture-examples/angularjs/#/
